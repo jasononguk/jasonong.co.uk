@@ -1,0 +1,271 @@
+button:focus {
+  outline:0;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.menu-items a {
+  text-decoration: none;
+  color: #333;
+}
+
+.menu-items .active {
+  color: #f5f5f5;
+  background-color: #333;
+  pointer-events: none;
+  cursor: default;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+#hamburger-row {
+  margin-top: 30px;
+}
+
+#navbar {
+  padding: 30px 0 30px 0;
+  background: #f5f5f5;
+  display: block;
+}
+
+.fadeOnLoad {
+  display: none;
+}
+
+html, body {
+  overflow-x: hidden;
+  overflow: scroll;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
+}
+
+#wrap {
+  flex: 1 0 auto;
+}
+
+#footer-text {
+  background: #f5f5f5;
+  padding: 50px 0px 50px 0;
+}
+
+.menu-items {
+  margin-top: 5px;
+}
+
+#site-title {
+  margin-bottom: 25px;
+  line-height: 0px;
+}
+
+#nav-row {
+  margin: 10px 30% 0px;
+}
+
+#accordion a {
+  text-decoration: none;
+}
+
+.panel-default {
+  border: 0px;
+}
+
+
+/*=========================
+  Icons
+ ================= */
+
+/* footer social icons */
+ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
+
+
+/* footer social icons */
+.social-network a.icoRss:hover {
+	background-color: #F56505;
+}
+.social-network a.icoFacebook:hover {
+	background-color:#3B5998;
+}
+.social-network a.icoTwitter:hover {
+	background-color:#33ccff;
+}
+.social-network a.icoGoogle:hover {
+	background-color:#BD3518;
+}
+.social-network a.icoVimeo:hover {
+	background-color:#0590B8;
+}
+.social-network a.icoLinkedin:hover {
+	background-color:#007bb7;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+	color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+	color:#44BCDD;
+}
+
+.social-circle li a {
+	display:inline-block;
+	position:relative;
+	margin:0 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	text-align:center;
+	width: 50px;
+	height: 50px;
+	font-size:20px;
+}
+.social-circle li i {
+	margin:0;
+	line-height:50px;
+	text-align: center;
+}
+
+.social-circle li a:hover i, .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+}
+.social-circle i {
+	color: #fff;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	-o-transition: all 0.8s;
+	-ms-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+.social-circle a {
+ background-color: #D3D3D3;
+}
+
+
+/*Spaces*/
+
+.space-large {
+  margin: 200px 0;
+}
+
+.space-medium {
+  margin: 100px 0;
+}
+
+.space-small {
+  margin: 25px 0;
+}
+
+.space-top-small {
+  margin-top: 25px;
+}
+
+.space-top-medium {
+  margin-top: 50px;
+}
+
+.space-top-large {
+  margin-top: 200px;
+}
+
+.app {
+    margin: 10px auto;
+    margin-bottom: 40px;
+}
+
+.album {
+    margin: 10px auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 40px;
+}
+
+.album-border {
+  border: 1px solid lightgrey;
+}
+
+#form-area {
+}
+
+p {
+  font-size: 20px;
+}
+
+.desktop-wireframe {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  margin: 1rem;
+  position: relative;
+}
+
+.desktop-design {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  position: relative;
+}
+
+.card-1 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.card-1:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+#home .home, #sites .sites, #designs .designs, #contact .contact {
+  font-weight: bold;
+  pointer-events: none;
+  cursor: default;
+}
+
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  }
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.small-text {
+  font-size: 10px;
+}
