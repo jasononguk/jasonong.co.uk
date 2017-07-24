@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jason Ong - Sites</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/hamburgers.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <?php include ("head.php") ?>
+
   </head>
   <body id="sites">
     <div id="wrap">
@@ -31,20 +25,20 @@
              <br>
              <div class="col-md-12 text-left">
                <p>In March 2016 I took on the Hatch project as a freelance Wordpress Developer working on the project in the evenings after my day job as a Project Manager. Hatch needed to be a Membership Platform with an element of Gamefication.</p><br>
-               <p>I walked Sarah, CEO of Hatch through every step of the way ensuring open and transparent communication about what we needed along the way. Since the site went live in December 2016, Sarah was able to raise more funding for the project due to its professional presentation and clear messaging.</p><br>
+               <p>I walked Sarah, CEO of Hatch through every step of the way (not using technical jargon) ensuring open and transparent communication about what we needed along the way. Since the site went live in December 2016, Sarah was able to raise more funding for the project due to its professional presentation and clear messaging.</p><br>
              </div>
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
                  <p>Here are some early user journey sketches sent to me:</p>
                  <div class="col-md-4">
-                   <img class="app img-responsive" src="media/hatch-sketches-1.jpg" alt="">
+                   <img class="app img-responsive card-1" src="media/hatch-sketches-1.jpg" alt="">
                  </div><div class="col-md-8">
-                   <img class="app img-responsive" src="media/hatch-sketches-2.jpg" alt="">
+                   <img class="app img-responsive card-1" src="media/hatch-sketches-2.jpg" alt="">
                  </div>
                  <div class="row">
                    <div class="col-md-12 text-center">
                      <p>Further development of the User gamification journey:</p>
-                     <img class="app img-responsive" src="media/user-hatch-journey.png" alt="">
+                     <img class="app img-responsive card-1" src="media/user-hatch-journey.png" alt="">
                      <span class="small-text">The map above was made together with UX designer Sophie Lepinoy.</span>
                    </div>
                  </div>
@@ -55,13 +49,13 @@
                <div class="col-md-12 container-h text-center">
                  <p>Here are some early prototype designs for the landing page:</p>
                  <div class="col-md-4">
-                   <img class="app img-responsive" src="media/hatch-mockup-1.jpg" alt="">
+                   <img class="app img-responsive card-1" src="media/hatch-mockup-1.jpg" alt="">
                  </div>
                  <div class="col-md-4">
-                   <img class="app img-responsive" src="media/hatch-mockup-2.jpg" alt="">
+                   <img class="app img-responsive card-1" src="media/hatch-mockup-2.jpg" alt="">
                  </div>
                  <div class="col-md-4">
-                   <img class="app img-responsive" src="media/hatch-mockup-3.jpg" alt="">
+                   <img class="app img-responsive card-1" src="media/hatch-mockup-3.jpg" alt="">
                  </div>
                </div>
              </div>
@@ -75,7 +69,7 @@
                <div class="col-md-12 container-h text-center">
 
                  <div class="col-md-6 text-left">
-                   <img class="app img-responsive" src="media/hatch-training-page-wireframe.jpg" alt="">
+                   <img class="app img-responsive card-1" src="media/hatch-training-page-wireframe.jpg" alt="">
                  </div>
                  <div class="col-md-6">
                    <a href="https://www.letshatch.co.uk/training/" target="_blank"><img class="app img-responsive card-1" src="media/hatch-training-page-production.png" alt=""></a>
