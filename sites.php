@@ -22,7 +22,6 @@
          <div class="row">
            <div class="col-md-8 col-md-offset-2 text-center">
              <h1>Sites</h1>
-             <br>
              <img src="media/hatch_full-size-logo-colour-6-150-height.png" alt="">
              <div class="col-md-12 text-left">
                <br><p>Hatch is a Community Interest Company passionate about supporting female development, challenging workplace inequality and increasing meaningful career opportunities for mums across the UK.<br>

@@ -27,7 +27,7 @@
             <br>
              <h1>Hatch</h1>
              <br>
-             <p>'Site Development Journey'</p>
+             <p>'Development journey'</p>
              <br>
              <div class="col-md-12 text-left">
                <p>In March 2016 I took on the Hatch project as a freelance Wordpress Developer working on the project in the evenings after my day job as a Project Manager. Hatch needed to be a Membership Platform with an element of Gamefication.</p><br>
@@ -43,9 +43,9 @@
                  </div>
                  <div class="row">
                    <div class="col-md-12 text-center">
-                     <p>Further development of journey:</p>
+                     <p>Further development of the User gamification journey:</p>
                      <img class="app img-responsive" src="media/user-hatch-journey.png" alt="">
-                     <span class="small-text">The above User journey was made with UX designer Sophie Lepinoy.</span>
+                     <span class="small-text">The map above was made together with UX designer Sophie Lepinoy.</span>
                    </div>
                  </div>
                </div>
@@ -53,7 +53,7 @@
              <br>
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
-                 <p>Here are some early prototyping done for the landing page:</p>
+                 <p>Here are some early prototype designs for the landing page:</p>
                  <div class="col-md-4">
                    <img class="app img-responsive" src="media/hatch-mockup-1.jpg" alt="">
                  </div>
