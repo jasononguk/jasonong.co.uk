@@ -2,7 +2,9 @@
 
     /* Custom, iPhone Retina */
     @media only screen and (min-width : 320px) {
+<<<<<<< HEAD
       * {
+>>>>>>> 78bb2ef44037ca903b717d9a04df4a93b371ede9
         font-size: 15pt;
       }
       h1 {
@@ -47,6 +49,7 @@
 
     /* Medium Devices, Desktops */
     @media only screen and (min-width : 992px) {
+<<<<<<< HEAD
       * {
         font-size: 11pt;
       }
@@ -70,14 +73,24 @@
 
     /* Large Devices, Wide Screens */
     @media only screen and (min-width : 1200px) {
+<<<<<<< HEAD
       * {
         font-size: 15pt;
       }
     }
 
+<<<<<<< HEAD
     /* 4k TV */
     @media only screen and (min-width : 2560px) {
       * {
         font-size: 26pt;
       }
+=======
+      /* 4k TV */
+      @media only screen and (min-width : 2560px) {
+        p {
+          font-size: 26pt;
+        }
+
+>>>>>>> 78bb2ef44037ca903b717d9a04df4a93b371ede9
     }
