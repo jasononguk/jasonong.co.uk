@@ -20,7 +20,7 @@
          ?>
 
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-left">
+          <div class="col-md-8 col-md-offset-2 text-left">
             <h2>Front-End Designer & Developer</h2>
             <h3>2 years experience</h3>
             <div class="row">

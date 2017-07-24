@@ -20,10 +20,13 @@
          ?>
 
          <div class="row">
-           <div class="col-md-6 col-md-offset-3 text-center">
-             <h1>Designs</h1>
+           <div class="col-md-8 col-md-offset-2 text-left">
+             <div class="col-md-12 text-center">
+               <h1>Designs</h1>
+               <br>
+             </div>
              <br>
-             <p>I am currently (July 2017) redesigning <a href="http://ocmusic.co.uk/" target="_blank">ocmusic.co.uk</a>, a site I built using Wordpress. I will be handcoding the new site with HTML, CSS and JS.</p><br>
+             <p>I am currently (July 2017) redesigning <a href="http://ocmusic.co.uk/" target="_blank">ocmusic.co.uk</a>, a site I built using Wordpress. I will be hand coding the new version using pure HTML5, CSS3 and JS.</p><br>
              <p>Below is the work in progress.</a></p><br>
            </div>
          </div>
