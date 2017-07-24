@@ -82,12 +82,10 @@
                </div>
              </div>
 
-             <p>Here is a new video (work in progress) showing the various Membership pages:</p>
              <div class='embed-container'><iframe src='https://www.youtube.com/embed/I2sul9Wo8VQ' frameborder='0' allowfullscreen></iframe></div>
-
-             <p>September will see the launching of our Membership Area, where our Users (Hatch Mammas) will be taken on a journey back to work.</p>
+             <br>
+             <p>The video above shows the various Membership pages. September will see the launching of our Membership Area, where our Users (Hatch Mammas) will be taken on a journey back to work.</p>
              <p>Visit the site <a href="https://www.letshatch.co.uk" target="_blank">here</a></p><br>
-
 
 
              <div class="row overflow-hide">
