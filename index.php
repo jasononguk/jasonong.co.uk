@@ -189,7 +189,7 @@
                   <h3>Key Skills</h3>
                   <ul>
                     <li>HTML / CSS / jQuery / Responsive Design / Bootstrap / WordPress / GIT</li>
-                    <li>Graphic Design / Adobe Creative Suite / Sketch / Final Cut / InVision</li>
+                    <li>Graphic Design / Adobe Creative Suite / Sketch / Final Cut / InVision / Tumult Hype</li>
                     <li>UI/UX</li>
                   </ul>
                 </div>

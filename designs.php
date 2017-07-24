@@ -20,26 +20,24 @@
                <br>
              </div>
              <br>
-             <p>I am currently (July 2017) redesigning <a href="http://ocmusic.co.uk/" target="_blank">ocmusic.co.uk</a>, a site I built using Wordpress. I will be hand coding the new version using pure HTML5, CSS3 and JS.</p><br>
-             <p>Below is the work in progress.</a></p><br>
+             <p>I am currently (July 2017) redesigning <a href="http://ocmusic.co.uk/" target="_blank">ocmusic.co.uk</a>, a site I built using Wordpress. I will be hand coding the new version using HTML5, CSS3 and JS with Bootstrap.</p><br>
+             <div class="col-md-6 text-center">
+               <img class="app img-responsive desktop-wireframe card-1" src="media/OCM-desktop-wireframe.jpg" alt="">
+             </div>
+             <div class="col-md-6 text-center">
+               <img class="app img-responsive desktop-design card-1" src="media/OCM-desktop.jpg" alt="">
+             </div>
+
            </div>
          </div>
 
 
-         <div class="row">
-           <div class="col-md-8 col-md-offset-2 text-center">
-             <p>'Made with Sketch'</p>
-             <img class="app img-responsive desktop-design card-1" src="media/OCM-desktop.jpg" alt="">
-           </div>
-         </div>
 
 
-         <div class="row">
-           <div class="col-md-8 col-md-offset-2 text-center">
-             <p>'The wireframe'</p>
-             <img class="app img-responsive desktop-wireframe card-1" src="media/OCM-desktop-wireframe.jpg" alt="">
-           </div>
-         </div>
+
+
+
+
 
 
          <div class="row">

@@ -223,7 +223,7 @@ p {
   background: #fff;
   border-radius: 2px;
   display: inline-block;
-  margin: 1rem;
+
   position: relative;
 }
 
@@ -231,6 +231,7 @@ p {
   background: #fff;
   border-radius: 2px;
   display: inline-block;
+
   position: relative;
 }
 
