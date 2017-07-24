@@ -20,17 +20,18 @@
          ?>
 
          <div class="row">
-           <div class="col-md-6 col-md-offset-3 text-center">
+           <div class="col-md-6 col-md-offset-3 text-left">
              <h1>Hatch</h1>
              <br>
              <p>'Site Development Journey'</p>
              <br>
              <p>In March 2016 I took on the Hatch project as a freelance Wordpress Developer working on the project in the evenings after my day job as a Project Manager. Hatch needed to be a Membership Platform with an element of Gamefication.</p><br>
              <p>I walked Sarah, CEO of Hatch through every step of the way ensuring open and clear communication about what steps needed to be taken in order for the site to be built. Since the site went live in December 2016, Sarah was able to raise more funding for the project due to its professional presentation and clear messaging.</p><br>
-             <p>Here are some early user journey sketches sent to me:</p>
+
 
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
+                 <p>Here are some early user journey sketches sent to me:</p>
                  <div class="col-md-4">
                    <img class="app img-responsive" src="media/hatch-sketches-1.jpg" alt="">
                  </div><div class="col-md-8">
@@ -47,11 +48,11 @@
              </div>
 
              <br>
-             <p>Here are some early prototyping done for the landing page:</p>
+
 
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
-
+                 <p>Here are some early prototyping done for the landing page:</p>
                  <div class="col-md-4">
                    <img class="app img-responsive" src="media/hatch-mockup-1.jpg" alt="">
                  </div>
@@ -63,10 +64,12 @@
                  </div>
                </div>
              </div>
+             <div class="col-md-12 text-center">
+               <p>Wireframe to production:</p>
+             </div>
 
-             <p>Wireframe to production:</p>
              <p>We went through several iterations of the design, omitting and adding sections as we went along. I would get sketches like these to start with, then develop them myself getting feedback as I develop the page.</p>
-             <p>Click on the page to see the live page.</p>
+
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
 
@@ -85,14 +88,15 @@
              <p>September will see the launching of our Membership Area, where our Users (Hatch Mammas) will be taken on a journey back to work.</p>
              <p>Visit the site <a href="https://www.letshatch.co.uk" target="_blank">here</a></p><br>
 
-             <p>What I used:</p>
+
 
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
+                 <p>What I used:</p>
                    <img class="app img-responsive" src="media/tools-logos.png" alt="">
                </div>
              </div>
-             
+
            </div>
          </div>
 

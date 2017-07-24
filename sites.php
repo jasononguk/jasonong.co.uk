@@ -20,7 +20,7 @@
          ?>
 
          <div class="row">
-           <div class="col-md-6 col-md-offset-3 text-center">
+           <div class="col-md-6 col-md-offset-3 text-left">
              <h1>Sites</h1>
              <br>
              <img src="media/hatch_full-size-logo-colour-6-150-height.png" alt="">
@@ -51,9 +51,12 @@
 
 
              <div class="row">
+
                <div class="col-md-6 col-md-offset-3 text-center">
                  <p>'Peasy'</p>
                  <br>
+               </div>
+               <div class="col-md-6 col-md-offset-3 text-left">
                  <p>Peasy is an incentivisation web app for businesses who want to encourage their customers to pay invoices promptly.</p><br>
                  <p>The project is currently put on hold until further notice. The site was hand-coded with HTML, CSS on the Laravel PHP Framework.</p><br>
                </div>
