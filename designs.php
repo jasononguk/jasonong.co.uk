@@ -21,6 +21,10 @@
              </div>
              <br>
              <p>I am currently (July 2017) redesigning <a href="http://ocmusic.co.uk/" target="_blank">ocmusic.co.uk</a>, a site I built using Wordpress. I will be hand coding the new version using HTML5, CSS3 and JS with Bootstrap.</p><br>
+             <div class="col-md-12 container-h text-center">
+               <p>Tools I am using:</p>
+                 <img class="app img-responsive" src="media/tools-logos-ocmusic.png" alt="">
+             </div>
              <div class="col-md-6 text-center">
                <img class="app img-responsive desktop-wireframe card-1" src="media/OCM-desktop-wireframe.jpg" alt="">
              </div>

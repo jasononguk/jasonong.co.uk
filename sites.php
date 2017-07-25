@@ -25,7 +25,7 @@
                  <br><p>My role: Wordpress Developer</p>
                </div>
                <p>To help realise the concept for the Hatch Membership platform. Build a responsive site, create solutions with minimal cost using WordPress and various Plugins.</p>
-               <br><br>
+               <br>
              </div>
              <div class="col-md-12">
                <p>What I did:</p>
@@ -45,7 +45,7 @@
              </div>
              <div class="col-md-12 container-h text-center">
                <br>
-               <p>Tools I used:</p>
+               <p>Tools I am using:</p>
                  <img class="app img-responsive" src="media/tools-logos.png" alt="">
              </div>
              <div class="col-md-4">
@@ -71,7 +71,7 @@
                  <br>
                </div>
                <div class="col-md-8 col-md-offset-2 text-left">
-                 <p>Peasy is an incentivisation web app for businesses. An NDA was signed so excuse the brevity on app details.</p>
+                 <p>Peasy is an incentivisation web app for businesses. An NDA was signed, please excuse the brevity on app details.</p>
                  <div class="col-md-8 col-md-offset-2 text-left">
                    <div class="col-md-12 text-center">
                      <br><p>My role: Front-End Developer</p>

@@ -73,14 +73,14 @@
                  <br>
                 </div>
                <div class="col-md-12 text-left">
-                 <p>The video above shows the various Membership pages. September will see the launching of our Membership Area, where our Users (Hatch Mammas) will be taken on a journey back to work.</p>
+                 <p>The video above shows the various Membership pages. September will see the launch of the Membership Area, where Users (Hatch Mammas) will be taken on a journey back to work.</p>
                  <br>
                </div>
                <div class="col-md-12 text-center">
                  <p>Wireframe, Production to Changelog:</p>
                </div>
                <div class="col-md-12 text-left">
-                 <p>We went through several iterations of the design, omitting and adding sections as we went. I would get sketches like these to start with, then develop them getting feedback as I developed the page. The Changelog shows the various tweaks and updates I made over a period.</p>
+                 <p>We went through several iterations of the design, omitting and adding sections as we went. I would be sent sketches like these to start with, then develop them getting feedback as I developed the page. The Changelog shows the various tweaks and updates I made over a period.</p>
                  <br>
                </div>
                <div class="col-md-4">
