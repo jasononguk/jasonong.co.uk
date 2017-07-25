@@ -37,6 +37,11 @@
                <p><strong>DESIGN & LAYOUT</strong></p>
                <p>I led the design and layout of the site through rapid prototyping ensuring we were on the same page. This lean approach resulted in a quick turnaround on deliverables. With a web development team of one, we managed to create quite a complex site with minimal cost and time.</p>
              </div>
+             <div class="col-md-12 container-h text-center">
+               <br>
+               <p>What I used:</p>
+                 <img class="app img-responsive" src="media/tools-logos.png" alt="">
+             </div>
              <div class="col-md-4">
                <h3></h3>
              </div>
@@ -44,8 +49,7 @@
          </div>
          <div class="row overflow-hide">
            <div class="col-md-6 col-md-offset-3 container-h text-center">
-             <br>
-             <p>View some of the Hatch development journey <a href="hatch.php">here</a></p><br>
+             <p>View the Hatch development journey <a href="hatch.php">here</a></p><br>
              <img class="app img-responsive" src="media/hatch-mobile.png" alt="">
            </div>
          </div>
