@@ -16,13 +16,13 @@
          <div class="row">
            <div class="col-md-8 col-md-offset-2 text-center">
              <h1>Sites</h1>
-             <img src="media/hatch_full-size-logo-colour-6-150-height.png" alt="">
+             <img class="app img-responsive" src="media/hatch_full-size-logo-colour-6-150-height.png" alt="">
              <div class="col-md-12 text-left">
                <br><p>Hatch is a Community Interest Company passionate about supporting female development, challenging workplace inequality and increasing meaningful career opportunities for mums across the UK.<br>
              </div>
              <div class="col-md-8 col-md-offset-2 text-left">
                <br><p><strong>MY ROLE</strong></p>
-               <p>To help realise the concept for the Hatch Membership platform. Build the site, create solutions with minimal cost using WordPress and various Plugins.</p>
+               <p>To help realise the concept for the Hatch Membership platform. Build a responsive site, create solutions with minimal cost using WordPress and various Plugins.</p>
                <br><br>
              </div>
              <div class="col-md-4 text-left">
@@ -49,7 +49,7 @@
          </div>
          <div class="row overflow-hide">
            <div class="col-md-6 col-md-offset-3 container-h text-center">
-             <p>View the Hatch development journey <a href="hatch.php">here</a></p><br>
+             <p>View the Hatch <strong>development journey</strong> <a href="hatch.php">here</a></p><br>
              <img class="app img-responsive" src="media/hatch-mobile.png" alt="">
            </div>
          </div>

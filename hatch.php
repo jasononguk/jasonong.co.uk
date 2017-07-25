@@ -118,7 +118,7 @@
 
              </div>
 
-             <p>Visit Hatch site <a href="https://www.letshatch.co.uk" target="_blank">here</a></p><br>
+             <p>Visit Hatch <a href="https://www.letshatch.co.uk" target="_blank">here</a></p><br>
              <div class="row overflow-hide">
 
                <a href="sites.php"><img class="card-2" src="media/arrow-round-left.png" alt=""></a>
