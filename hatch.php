@@ -22,7 +22,7 @@
              <p>'Development journey'</p>
              <br>
              <div class="col-md-12 text-left">
-               <p>In March 2016 I took on the Hatch project as a freelance Wordpress Developer working on the project in the evenings after my day job as a Project Manager. Hatch needed to be a Membership Platform with an element of Gamefication.</p><br>
+               <p>In March 2016 I took on the Hatch project as a freelance Wordpress Developer working on the project in the evenings outside of my day job as a Project Manager. Hatch needed to be a Membership Platform with an element of Gamification.</p><br>
                <p>I walked Sarah, CEO of Hatch through every step of the way (not using technical jargon) ensuring open and transparent communication about what we needed along the way. Since the site went live in December 2016, Sarah was able to raise more funding for the project due to its professional presentation and clear messaging; this enabled Hatch to hire my services for one day a week since January 2017.</p><br>
              </div>
              <div class="row overflow-hide">
