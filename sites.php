@@ -18,7 +18,7 @@
              <h1>Sites</h1>
              <img class="app img-responsive" src="media/hatch_full-size-logo-colour-6-150-height.png" alt="">
              <div class="col-md-12 text-left">
-               <br><p>Hatch is a Community Interest Company passionate about supporting female development, challenging workplace inequality and increasing meaningful career opportunities for mums across the UK.<br>
+               <br><p><strong>Hatch</strong> is a Community Interest Company passionate about supporting female development, challenging workplace inequality and increasing meaningful career opportunities for mums across the UK.<br>
              </div>
              <div class="col-md-8 col-md-offset-2 text-left">
                <br><p><strong>MY ROLE</strong></p>
@@ -39,7 +39,7 @@
              </div>
              <div class="col-md-12 container-h text-center">
                <br>
-               <p>What I used:</p>
+               <p>Tools I used:</p>
                  <img class="app img-responsive" src="media/tools-logos.png" alt="">
              </div>
              <div class="col-md-4">

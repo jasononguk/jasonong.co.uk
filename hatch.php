@@ -23,11 +23,11 @@
              <br>
              <div class="col-md-12 text-left">
                <p>In March 2016 I took on the Hatch project as a freelance Wordpress Developer working on the project in the evenings after my day job as a Project Manager. Hatch needed to be a Membership Platform with an element of Gamefication.</p><br>
-               <p>I walked Sarah, CEO of Hatch through every step of the way (not using technical jargon) ensuring open and transparent communication about what we needed along the way. Since the site went live in December 2016, Sarah was able to raise more funding for the project due to its professional presentation and clear messaging.</p><br>
+               <p>I walked Sarah, CEO of Hatch through every step of the way (not using technical jargon) ensuring open and transparent communication about what we needed along the way. Since the site went live in December 2016, Sarah was able to raise more funding for the project due to its professional presentation and clear messaging; this enabled Hatch to hire my services for one day a week since January 2017.</p><br>
              </div>
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
-                 <p>Here are some early user journey sketches sent to me:</p>
+                 <p>User journey sketches sent to me:</p>
                  <div class="col-md-4">
                    <img class="app img-responsive card-1" src="media/hatch-sketches-1.jpg" alt="">
                  </div><div class="col-md-8">
@@ -45,15 +45,25 @@
              <br>
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
-                 <p>Here are some early prototype designs for the landing page:</p>
-                 <div class="col-md-4">
+                 <p>Early prototype designs for the landing page:</p>
+                 <div class="col-md-4 col-xs-4">
                    <img class="app img-responsive card-1" src="media/hatch-mockup-1.jpg" alt="">
                  </div>
-                 <div class="col-md-4">
+                 <div class="col-md-4 col-xs-4">
                    <img class="app img-responsive card-1" src="media/hatch-mockup-2.jpg" alt="">
                  </div>
-                 <div class="col-md-4">
+                 <div class="col-md-4 col-xs-4">
                    <img class="app img-responsive card-1" src="media/hatch-mockup-3.jpg" alt="">
+                 </div>
+               </div>
+               <div class="text-center" id="hatch-membership">
+                 <div class="col-md-6 col-xs-12">
+                   <p>Prototype of the activity wall:</p>
+                   <img class="app img-responsive card-1" src="media/hatch-membership-page-wip.png" alt="">
+                 </div>
+                 <div class="col-md-6 col-xs-12">
+                   <p>Finished version of the activity wall:</p>
+                   <img class="app img-responsive card-1" src="media/hatch-membership-page-production.png" alt="">
                  </div>
                </div>
              </div>
