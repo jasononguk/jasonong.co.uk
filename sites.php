@@ -15,21 +15,20 @@
 
          <div class="row">
            <div class="col-md-8 col-md-offset-2 text-center">
-             <h1>Sites</h1>
+             <h1>Sites</h1><br>
              <img class="app img-responsive" src="media/hatch_full-size-logo-colour-6-150-height.png" alt="">
              <div class="col-md-12 text-left">
                <p><strong>Hatch</strong> is a Community Interest Company passionate about supporting female development, challenging workplace inequality and increasing meaningful career opportunities for mums across the UK.<br>
              </div>
              <div class="col-md-8 col-md-offset-2 text-left">
                <div class="col-md-12 text-center">
-                 <br><p>My role: Wordpress Developer</p>
+                 <br><h3>My role: Wordpress Developer</h3><br>
                </div>
                <p>To help realise the concept for the Hatch Membership platform. Build a responsive site, create solutions with minimal cost using WordPress and various Plugins.</p>
                <br>
              </div>
              <div class="col-md-12">
-               <p>What I did:</p>
-               <br>
+               <h3>What I did:</h3><br>
              </div>
              <div class="col-md-4 text-left">
                <p><strong>KEEPING COST DOWN</strong></p>
@@ -74,7 +73,7 @@
                  <p>Peasy is an incentivisation web app for businesses. An NDA was signed, please excuse the brevity on app details.</p>
                  <div class="col-md-8 col-md-offset-2 text-left">
                    <div class="col-md-12 text-center">
-                     <br><p>My role: Front-End Developer</p>
+                     <br><h3>My role: Front-End Developer</h3><br>
                    </div>
                    <p>Convert static pages and admin dashboard design PSD's to HTML5, CSS3 using Bootstrap on the Laravel framework.</p>
                    <br>

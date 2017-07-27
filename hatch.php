@@ -19,7 +19,7 @@
             <br>
              <h1>Hatch</h1>
              <br>
-             <p>'Development journey'</p>
+             <h3>'Development journey'</h3><br>
              <br>
              <div class="col-md-12 text-left">
                <p>In March 2016 I took on the Hatch project as a freelance Wordpress Developer working on the project in the evenings outside of my day job as a Project Manager. Hatch needed to be a Membership Platform with an element of Gamification.</p><br>
@@ -27,7 +27,7 @@
              </div>
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
-                 <p>User journey sketches sent to me:</p>
+                 <h3>User journey sketches sent to me:</h3>
                  <div class="col-md-4">
                    <img class="app img-responsive card-1" src="media/hatch-sketches-1.jpg" alt="">
                  </div><div class="col-md-8">
@@ -35,7 +35,7 @@
                  </div>
                  <div class="row">
                    <div class="col-md-12 text-center">
-                     <p>Further development of the User gamification journey:</p>
+                     <h3>Further development of the User gamification journey:</h3>
                      <img class="app img-responsive card-1" src="media/user-hatch-journey.png" alt="">
                      <span class="small-text">The map above was made together with UX designer Sophie Lepinoy.</span>
                    </div>
@@ -45,7 +45,7 @@
              <br>
              <div class="row overflow-hide">
                <div class="col-md-12 container-h text-center">
-                 <p>Early prototype designs for the landing page:</p>
+                 <h3>Early prototype designs for the landing page:</h3>
                  <div class="col-md-4 col-xs-4">
                    <img class="app img-responsive card-1" src="media/hatch-mockup-1.jpg" alt="">
                  </div>
@@ -77,7 +77,7 @@
                  <br>
                </div>
                <div class="col-md-12 text-center">
-                 <p>Wireframe, Production to Changelog:</p>
+                 <h3>Wireframe, Production to Changelog:</h3><br>
                </div>
                <div class="col-md-12 text-left">
                  <p>We went through several iterations of the design, omitting and adding sections as we went. I would be sent sketches like these to start with, then develop them getting feedback as I developed the page. The Changelog shows the various tweaks and updates I made over a period.</p>

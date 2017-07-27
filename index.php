@@ -16,13 +16,13 @@
         <div class="row">
           <div class="col-md-8 col-md-offset-2 text-center">
             <div class="col-md-12 text-center">
-              <h2>Front-End / WordPress Developer</h2>
+              <h2>Front-End Web Designer / Developer</h2>
               <h3>2 years experience</h3>
             </div>
 
             <div class="col-md-12 space-top-small text-left">
               <h3>About Me</h3>
-              <p>I have a proven track record of a successful and creative career. A natural troubleshooter and confident with executing solutions. I am a highly collaborative team player with a unique portfolio of work which is unconventional, self taught. An entrepreneurial mindset suited to organisations looking for a ambitious bold self starter, bringing something new, fresh and dynamic.</p>
+              <p class="text-indent">I have a proven track record of a successful and creative career. A natural troubleshooter and confident with executing solutions. I am a highly collaborative team player with a unique portfolio of work which is unconventional, self taught. An entrepreneurial mindset suited to organisations looking for a ambitious bold self starter, bringing something new, fresh and dynamic.</p>
               <br>
               <!-- Start Work Experience -->
               <h3 class="">Work experience</h3>
